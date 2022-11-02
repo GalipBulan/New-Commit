@@ -1,4 +1,4 @@
-public class C03 {
+public class A03 {
     public static void main(String[] args) {
 
         System.out.println("A03 Classi");
